@@ -1,6 +1,8 @@
 # mazes
 A Unity-based game with interesting mazes
-![](https://imgur.com/lLBGXeU)
+
+![](https://github.com/william-galvin/mazes/blob/main/screenshots/Screenshot%202022-07-02%20173209.png?raw=true)
+![](https://github.com/william-galvin/mazes/blob/main/screenshots/Screenshot%202022-07-02%20174012.png?raw=true)
 
 ## Preamble
 This is a project I made when I was *very* new to programming and was my first introduction to Unity and C# (more on that below). 
@@ -17,6 +19,9 @@ as you may be able to tell, were somewhat of an afterthought.
 ## DFS? Who's She?
 I made the maze-solving functionality before I actaully learned about depth-first search and, as the fine TAs at UW (hey, that's me!) would say, the 
 *choose-explore-unchoose* pattern. So my DFS is sort of like a recursive implementation of the non-recursive implementation of a DFS maze-solver. But, it works!
+
+## Known Bugs
+- Sometimes the maze solver doesn't display
 
 ## Thoughts and Reflections
 I remember it was fun to make this game, but in hindsight, it's certainly very boring to play. In terms of documentation and readability, it has none.
