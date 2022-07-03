@@ -1,6 +1,6 @@
 # mazes
 A Unity-based game with interesting mazes
-![](https://ibb.co/XysXNk7)
+![](https://imgur.com/lLBGXeU)
 
 ## Preamble
 This is a project I made when I was *very* new to programming and was my first introduction to Unity and C# (more on that below). 
