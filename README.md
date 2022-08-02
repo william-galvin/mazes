@@ -11,6 +11,9 @@ but I'm choosing to leave it unaltered. (Mostly as reminder to myself why commme
 Most of the interesting code that I wrote can be found in `generator.cs`—this project also includes lots of snippets and assets taken directly, or nearly so, from
 tutorials and asset packs.
 
+## Building
+I have no idea how to export a project from Unity. I tried to include what I thought were the most important bits in this repo, but there's no way to recreate the game just from this.
+
 ## Game Overview
 The basic premise of this game is that there's a maze and that the player starts at the entrace and tries to find the exit. If that sounds riveting, 
 you can play it [here](https://gamepipe.io/@william-galvinxrk0/mazes-).
